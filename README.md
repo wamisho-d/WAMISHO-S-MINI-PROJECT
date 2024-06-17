@@ -22,7 +22,7 @@ To run the To-Do List Application, follow these steps:
 ## Contributing
 Contributions to enhance this application are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
 ## License
-MIT License.
+MIT License
 ## Support
 If you encounter any issues, please open a problem on the project's GitHub page.
 ## Author info
